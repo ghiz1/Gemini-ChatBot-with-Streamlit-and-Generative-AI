@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 nohup.out
+
+
+ngrok config add-authtoken 2qQLj8XC8NSuuOsGROrDDcfJ41v_3vCjtLbzpCCxsTAYw7XTv

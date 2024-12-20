@@ -5,3 +5,20 @@ python-dotenv
 
 // Run the following command to install the required packages
 // pip install -r requirements.txt
+
+// create an account on ngrok and get the token
+// ngrok config add-authtoken your token
+
+// run the following command to start the streamlit server
+// streamlit run app.py
+
+// run the following command to start the ngrok server
+// pyngrok ngrok http 8501
+
+// run the following command to stop the ngrok server
+// pyngrok ngrok http 8501 --kill
+
+// run the following command to stop the streamlit server
+// ctrl + c
+
+
